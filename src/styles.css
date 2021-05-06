@@ -1,0 +1,55 @@
+Body {
+  font-family: "Lato", sans-serif;
+  background: linear-gradient(#96c0be, #e3e9e7);
+  text-align: center;
+}
+
+h1,
+h2 {
+  text-align: center;
+  font-weight: bold;
+}
+
+h5,
+h6,
+p {
+  text-align: center;
+}
+
+i {
+  color: rgb(112, 112, 112);
+}
+
+.btn {
+  border: 2px solid rgb(185, 183, 183);
+  border-radius: 5px;
+  background-color: #eff7f4;
+  color: black;
+}
+
+.card {
+  border: 5px solid rgb(185, 183, 183);
+}
+.sunday {
+  background: #47c7c0;
+}
+
+.monday {
+  background: #88c5c2;
+}
+
+.tuesday {
+  background: #89dbd7;
+}
+
+.wednesday {
+  background: #a0d8d6;
+}
+
+.thursday {
+  background: #c6dad9;
+}
+
+.thicker {
+  font-weight: 400px;
+}

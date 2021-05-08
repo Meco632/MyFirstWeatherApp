@@ -93,7 +93,7 @@ function getCurrentLocStat(event) {
 showCurrentDateAndTime();
 
 let form = document.querySelector("#enterLocationForm");
-form.addEventListener("click", submitCitySearch);
+form.addEventListener("submit", submitCitySearch);
 
 let farenheitLink = document.querySelector("#farenheit-link");
 farenheitLink.addEventListener("click", convertToFarenheit);
